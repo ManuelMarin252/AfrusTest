@@ -1,0 +1,5 @@
+#obtener productos
+GET http://localhost:3000/productos
+
+#obtener producto por id
+GET http://localhost:3000/productos/1
